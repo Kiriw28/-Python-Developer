@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+asyncpg
+pyjwt
+grpcio
+grpcio-tools
+pydantic
